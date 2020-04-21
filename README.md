@@ -5,7 +5,7 @@ The script is especially useful when using applications in full-screen mode and 
 ## How to Use
 ### Prerequisites
 - Python must be installed on your Surface Pro. Python can be downloaded from [here](https://www.python.org/downloads/windows/)
-- PyInstaller must also be installed on your Surface Pro. For instructions of how to do so, please see [this link](https://www.pyinstaller.org/)
+- PyInstaller must also be installed on your Surface Pro. For instructions on how to do so, please see [this link](https://www.pyinstaller.org/)
 
 Note: this script has been tested on a Surface Pro 7 tablet, running Windows 10, with a 4th generation Surface Pen and Python 3  
 
